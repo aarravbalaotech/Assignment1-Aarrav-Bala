@@ -180,6 +180,25 @@ footer p a:hover {
   color: #fff;
 }
 
+
+
+/* Button style used on index page */
+.btn {
+  display: inline-block;
+  background-color: #e75e8d;
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 18px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background-color 0.25s ease;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #b84eff;
+  outline: none;
+}
+
 .Pic {
   width: 200px;
   border-radius: 50%;
