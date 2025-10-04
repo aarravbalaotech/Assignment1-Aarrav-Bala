@@ -53,7 +53,7 @@ p {
 }
 
 .header-area .logo {
-  float: left; /* no flex */
+  float: left; 
   font-size: 1.6rem;
   font-weight: 700;
   color: #ffffff69;
